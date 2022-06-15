@@ -1,3 +1,3 @@
 # PowerBI-Dashboard-Telecom-churn-analysis-re
 
-![download] (https://raw.githubusercontent.com/dishabalpande11/PowerBI-Dashboard/main/Telecom%20Churn%20Analysis/Main%20File%20Power%20BI%20Telecom%20churn%20analysis.JPG)
+![Main File Power BI Telecom churn analysis](https://user-images.githubusercontent.com/107383468/173747265-60a60007-01ef-4491-8e97-821d22dba6f1.JPG)
