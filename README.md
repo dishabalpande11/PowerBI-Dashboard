@@ -10,3 +10,5 @@ https://github.com/dishabalpande11/PowerBI-Dashboard/tree/main/Telecom%20Churn%2
 
 
  # PowerBI Simple, Advance Visualization and there Dashboard
+ <br>
+https://github.com/dishabalpande11/PowerBI-Dashboard/tree/main/PowerBI%20Pratice%20Dashboard
